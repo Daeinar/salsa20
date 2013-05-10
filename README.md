@@ -1,4 +1,4 @@
-### Python implementation of the [Salsa20 core][1].
+### Python implementation of [Salsa20 core][1].
 Created by [Daniel J. Bernstein][2].
 
 #### USAGE & EXAMPLES
