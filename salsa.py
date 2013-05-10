@@ -20,7 +20,7 @@ class Salsa:
          b[0], b[1], c[2], k[4], 
          k[5], k[6], k[7], c[3]]
 
-    # the cipher state
+    # the state
     self._s = s[:]
 
     for i in xrange(self._r):
